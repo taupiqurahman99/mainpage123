@@ -11,6 +11,7 @@ html, body
 .container1
 {
 	height: 100%;
+	width: 80%;
 	background: url(bg_hut.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
